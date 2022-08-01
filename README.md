@@ -7,7 +7,7 @@
 ```
 https://github.com/Afiniel-tech/Yiimpool-Installer
 ```
--> From there follow the instructions and the Yiimp will be installed.
+-  From there follow the instructions and the Yiimp will be installed.
 
 
 ## Changes to this fork include but not limited to:
